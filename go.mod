@@ -1,4 +1,4 @@
-module ChapoBot
+module AmberBot
 
 go 1.15
 
